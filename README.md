@@ -5,9 +5,9 @@ Automated rename specified file(s) by appending current as suffix to the origina
 (Note: program require user to enter directory of the source folder (the locate of the collection of files to be renamed), files to be selected, and directory of the backup folder)
 
 * in the example below 
-*** `Rename_Files_Example` is the directory of the source folder
-*** `\*.txt` selects all txt files
-*** `Backup_Folder` is the directory of the backup folder
+**`Rename_Files_Example` is the directory of the source folder
+**`\*.txt` selects all txt files
+**`Backup_Folder` is the directory of the backup folder
 
 ```
 renFile.bat Rename_Files_Example \*.txt Backup_Folder
