@@ -3,8 +3,8 @@
 Automated rename specified file(s) by appending current as suffix to the original filename(s)
 <br>
 (Note: program require user to enter directory of the source folder (the locate of the collection of files to be renamed), files to be selected, and directory of the backup folder)
-<br>
-In the example below 
+<br><br>
+<b>In the example below:<b> 
 * `Rename_Files_Example` is the directory of the source folder
 * `\*.txt` selects all txt files
 * `Backup_Folder` is the directory of the backup folder
